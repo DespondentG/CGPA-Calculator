@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CGPA Calc</string>
+    <string-array name="grades">
+        <item>O</item>
+        <item>A+</item>
+        <item>A</item>
+        <item>B+</item>
+        <item>B</item>
+        <item>C</item>
+        <item>F</item>
+    </string-array>
+</resources>

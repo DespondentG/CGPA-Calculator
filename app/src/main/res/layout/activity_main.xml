@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="CGPA Calculator"
+        android:textAlignment="center"
+        android:gravity="bottom"
+        android:textSize="32sp"
+        android:textColor="#5f0eff"
+        android:textStyle="bold|normal">
+    </TextView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <EditText
+            android:id="@+id/cred1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:layout_gravity="center"
+            android:hint="Credit"
+            android:minHeight="48dp" />
+
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu"
+            android:layout_width="115dp"
+            android:layout_height="match_parent"
+            android:layout_margin="15dp">
+
+            <AutoCompleteTextView
+                android:id="@+id/gr_1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+
+                android:hint="Grade"
+                android:inputType="none"
+                android:textSize="16dp"
+                android:minHeight="48dp"
+                android:gravity="center_vertical"
+                tools:ignore="SpeakableTextPresentCheck">
+
+            </AutoCompleteTextView>
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#92000000"
+        android:layout_margin="5dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/cred2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:layout_gravity="center"
+            android:hint="Credit"
+            android:minHeight="48dp" />
+
+
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu"
+            android:layout_width="115dp"
+            android:layout_height="match_parent"
+            android:layout_margin="15dp">
+
+            <AutoCompleteTextView
+                android:id="@+id/gr_2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+
+                android:hint="Grade"
+                android:inputType="none"
+                android:textSize="16dp"
+                android:minHeight="48dp"
+                android:gravity="center_vertical"
+                tools:ignore="SpeakableTextPresentCheck">
+
+            </AutoCompleteTextView>
+
+        </com.google.android.material.textfield.TextInputLayout>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#92000000"
+        android:layout_margin="5dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/cred3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:layout_gravity="center"
+            android:hint="Credit"
+            android:minHeight="48dp" />
+
+
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu"
+            android:layout_width="115dp"
+            android:layout_height="match_parent"
+            android:layout_margin="15dp">
+
+            <AutoCompleteTextView
+                android:id="@+id/gr_3"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+
+                android:hint="Grade"
+                android:inputType="none"
+                android:textSize="16dp"
+                android:minHeight="48dp"
+                android:gravity="center_vertical"
+                tools:ignore="SpeakableTextPresentCheck">
+
+            </AutoCompleteTextView>
+
+        </com.google.android.material.textfield.TextInputLayout>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#92000000"
+        android:layout_margin="5dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/cred4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:layout_gravity="center"
+            android:hint="Credit"
+            android:minHeight="48dp" />
+
+
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu"
+            android:layout_width="115dp"
+            android:layout_height="match_parent"
+            android:layout_margin="15dp">
+
+            <AutoCompleteTextView
+                android:id="@+id/gr_4"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+
+                android:hint="Grade"
+                android:inputType="none"
+                android:textSize="16dp"
+                android:minHeight="48dp"
+                android:gravity="center_vertical"
+                tools:ignore="SpeakableTextPresentCheck">
+
+            </AutoCompleteTextView>
+
+        </com.google.android.material.textfield.TextInputLayout>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#92000000"
+        android:layout_margin="5dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/cred5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:layout_gravity="center"
+            android:hint="Credit"
+            android:minHeight="48dp" />
+
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu"
+            android:layout_width="115dp"
+            android:layout_height="match_parent"
+            android:layout_margin="15dp">
+
+            <AutoCompleteTextView
+                android:id="@+id/gr_5"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+
+                android:hint="Grade"
+                android:inputType="none"
+                android:textSize="16dp"
+                android:minHeight="48dp"
+                android:gravity="center_vertical"
+                tools:ignore="SpeakableTextPresentCheck">
+
+            </AutoCompleteTextView>
+
+        </com.google.android.material.textfield.TextInputLayout>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#92000000"
+        android:layout_margin="5dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <EditText
+            android:id="@+id/cred6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:layout_gravity="center"
+            android:hint="Credit"
+            android:minHeight="48dp" />
+
+
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu"
+            android:layout_width="115dp"
+            android:layout_height="match_parent"
+            android:layout_margin="15dp">
+
+            <AutoCompleteTextView
+                android:id="@+id/gr_6"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+
+                android:hint="Grade"
+                android:inputType="none"
+                android:textSize="16dp"
+                android:minHeight="48dp"
+                android:gravity="center_vertical"
+                tools:ignore="SpeakableTextPresentCheck">
+
+            </AutoCompleteTextView>
+
+        </com.google.android.material.textfield.TextInputLayout>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#92000000"
+        android:layout_margin="5dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+
+        <Button
+            android:id="@+id/calc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Calculate!"/>
+
+        <Button
+            android:id="@+id/reset"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="  Reset!  "/>
+
+    </LinearLayout>
+</LinearLayout>
