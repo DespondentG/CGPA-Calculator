@@ -118,22 +118,11 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+To use the CGPA Calculator, simply download the latest APK release from the Releases section of this repository. Once downloaded, install the APK on your Android device by following these steps:
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
+  * Download: Click on the APK file to initiate the download.
+  * Install: Open the downloaded APK file on your device to start the installation process.
+  8 Permissions: If prompted, grant any necessary permissions to complete the installation.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -141,12 +130,38 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+The CGPA Calculator app helps you effortlessly compute your Cumulative Grade Point Average (CGPA) based on your course credits and grades. Follow these steps to use the app effectively:
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+  * Input Credits: Enter the number of credits for your course using the provided input field.
+
+  * Select Grade: Choose your grade from the dropdown menu corresponding to the entered credit.
+
+  * Calculate CGPA: Once all credits and grades are entered, click on the "Calculate" button to compute your CGPA.
+
+  * Reset: Use the "Reset" button to clear all inputs and start over if needed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+
+## Example workflow
+
+1. Course 1: Enter 4 credits, select grade "A".
+
+2. Course 2: Enter 3 credits, select grade "B".
+
+3. Course 3: Enter 3 credits, select grade "A".
+
+4. Course 4: Enter 2 credits, select grade "C+".
+
+5. Course 5: Enter 4 credits, select grade "B+".
+
+6. Course 6: Enter 3 credits, select grade "A".
+
+7. Calculate: Click on "Calculate" to see your computed CGPA based on the entered data.
+
+8. Reset: Use the "Reset" button to clear inputs for a new calculation.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- ROADMAP -->
