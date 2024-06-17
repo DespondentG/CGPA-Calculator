@@ -246,7 +246,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-shield]: https://img.shields.io/github/license/despondentG/CGPA-Calculator.svg
 [license-url]: https://github.com/despondentG/CGPA-Calculator/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://www.linkedin.com/in/prashant-n-063414213/
 [product-screenshot]: images/screenshot.png
 [Next.js]:https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white
 [Next-url]: https://kotlinlang.org/
