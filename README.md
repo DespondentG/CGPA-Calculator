@@ -106,16 +106,17 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Enabling Allow Unknown Sources on Android Devices:
+
+  * Navigate to Settings: Open the Settings app on your Android device.
+  * Access Security Settings: Look for and tap on "Security" or "Security & privacy," depending on your device.
+  * Find Unknown Sources Option: Scroll down to find the "Unknown sources" option.
+  * Enable Unknown Sources: Toggle the switch to enable "Unknown sources." You may need to confirm your action by selecting "OK" or "Allow" on the pop-up that appears.
+  * Proceed with Installation: Once enabled, you can proceed to download and install the APK from your preferred source.
 
 ### Installation
 
