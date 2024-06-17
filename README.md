@@ -30,7 +30,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/despondentG/CGPA-Calculator">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -39,14 +39,9 @@
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+      <a href="https://github.com/despondentG/CGPA-Calculator"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -88,9 +83,9 @@
 The CGPA Calculator is a simple yet powerful tool designed to help students quickly calculate their Cumulative Grade Point Average (CGPA). Built using Kotlin, this app offers a user-friendly interface that allows users to input their course credits and grades effortlessly.
 Key Features:
 
-    Easy Input: Enter course credits and corresponding grades seamlessly.
-    Accurate Calculation: Automatically computes CGPA based on entered data.
-    Reset: Reset the values to calculate multiple times without having to restart the application.
+* Easy Input: Enter course credits and corresponding grades seamlessly.
+* Accurate Calculation: Automatically computes CGPA based on entered data.
+* Reset: Reset the values to calculate multiple times without having to restart the application.
 
 This project was created to provide students with a convenient way to track their academic progress and make informed decisions regarding their studies. Whether you're a high school student, undergraduate, or graduate student, the CGPA Calculator aims to simplify the process of GPA calculation.
 
@@ -101,14 +96,7 @@ This project was created to provide students with a convenient way to track thei
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![Kotlin][Next.js]][Next-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -249,8 +237,8 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
+[Next.js]: https://img.shields.io/badge/Kotlin-20232A?style=for-the-badge&logo=kotlin&logoColor=ae2fec
+[Next-url]: https://kotlinlang.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
