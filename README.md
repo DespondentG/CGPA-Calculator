@@ -34,10 +34,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">CGPA Calculator</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Simplifying GPA Management with Kotlin!
     <br />
       <a href="https://github.com/despondentG/CGPA-Calculator"><strong>Explore the docs »</strong></a>
     <br />
@@ -65,6 +65,7 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#usage">Example Workflow</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -121,8 +122,10 @@ This is an example of how to list things you need to use the software and how to
 To use the CGPA Calculator, simply download the latest APK release from the Releases section of this repository. Once downloaded, install the APK on your Android device by following these steps:
 
   * Download: Click on the APK file to initiate the download.
+    
   * Install: Open the downloaded APK file on your device to start the installation process.
-  8 Permissions: If prompted, grant any necessary permissions to complete the installation.
+    
+  * Permissions: If prompted, grant any necessary permissions to complete the installation.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
