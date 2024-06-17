@@ -85,19 +85,16 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+The CGPA Calculator is a simple yet powerful tool designed to help students quickly calculate their Cumulative Grade Point Average (CGPA). Built using Kotlin, this app offers a user-friendly interface that allows users to input their course credits and grades effortlessly.
+Key Features:
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+    Easy Input: Enter course credits and corresponding grades seamlessly.
+    Accurate Calculation: Automatically computes CGPA based on entered data.
+    Reset: Reset the values to calculate multiple times without having to restart the application.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+This project was created to provide students with a convenient way to track their academic progress and make informed decisions regarding their studies. Whether you're a high school student, undergraduate, or graduate student, the CGPA Calculator aims to simplify the process of GPA calculation.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ### Built With
